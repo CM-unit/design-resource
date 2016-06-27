@@ -163,7 +163,6 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 ### Sketch Plug-in
 + https://github.com/utom/sketch-measure
 + https://github.com/getflourish/Sketch-Style-Inventory
-+ 
 
 ## Photoshop
 
